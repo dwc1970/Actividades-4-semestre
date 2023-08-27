@@ -1,4 +1,4 @@
-const nombre = 'jonathan';
+const nombre = 'Walter';
 console.log(nombre);
 
 const nombre2 = 'Juan';
